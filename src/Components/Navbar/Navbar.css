@@ -34,8 +34,12 @@
     justify-content: center;
     gap: 3px;
     cursor: pointer;
+    text-decoration: none;
 }
 
+.router-nav-links {
+    text-decoration: none;
+}
 #nav-menu hr {
     border: none;
     width: 80%;
